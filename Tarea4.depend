@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1425838312 source:d:\estructura de datos\estructuratarea4-master\estructuratarea4-master\evaluador.cpp
+	"Evaluador.h"
+
+1422487584 d:\estructura de datos\estructuratarea4-master\estructuratarea4-master\evaluador.h
+	"NodoArbolBinario.h"
+	<iostream>
+
+1422487584 d:\estructura de datos\estructuratarea4-master\estructuratarea4-master\nodoarbolbinario.h
+
+1426266464 source:d:\estructura de datos\estructuratarea4-master\estructuratarea4-master\main.cpp
+	"NodoArbolBinario.h"
+	"Evaluador.h"
+	<iostream>
+	<list>
+
+1422487584 source:d:\estructura de datos\estructuratarea4-master\estructuratarea4-master\nodoarbolbinario.cpp
+	"NodoArbolBinario.h"
+
